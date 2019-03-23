@@ -8,6 +8,8 @@
 
 * [1.linear_regression](1.linear_regression)
 * [2.logistic_regression](2.logistic_regression)
+* [3.multi-class_classification_and_neural_network](3.multi-class_classification_and_neural_network)
+* [4.nurual_network_back_propagation](4.nurual_network_back_propagation)
 * 未来待续
 
 如有疑问，请Submit issue或Pull Request，谢谢
