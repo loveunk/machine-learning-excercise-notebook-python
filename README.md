@@ -10,6 +10,9 @@
 * [2.logistic_regression](2.logistic_regression)
 * [3.multi-class_classification_and_neural_network](3.multi-class_classification_and_neural_network)
 * [4.nurual_network_back_propagation](4.nurual_network_back_propagation)
-* 未来待续
+* [5.bias_vs_variance](5.bias_vs_variance)
+* [6.svm](6.svm)
+* [7.kmeans_and_PCA](7.kmeans_and_PCA)
+* [8.anomaly_detection_and_recommendation](8.anomaly_detection_and_recommendation)
 
 如有疑问，请Submit issue或Pull Request，谢谢
