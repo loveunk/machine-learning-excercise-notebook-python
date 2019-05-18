@@ -26,3 +26,7 @@
 
 如有疑问，请Submit issue或Pull Request，谢谢
 
+## 更多
+
+* [深度学习的Jupyter Notebooks](https://github.com/loveunk/deep-learning-exercise-notebook)
+* [机器学习、深度学习的学习路径及知识总结](https://github.com/loveunk/machine-learning-deep-learning-notes)
